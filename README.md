@@ -38,7 +38,7 @@ All the lecture notes and additional material of the laboratory are available at
    * book chapter: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://comp-think.github.io/book/02)
    <hr />
 4. [18/10/21, *lab*] 1st Lesson
-   * book chapter: [HTML](https://comp-think.github.io/laboratory/chapters/1_chapter)
+   * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/01)
    <hr />
 5. [20/10/21, *the*] Computability  
    * book chapter: [PDF](https://comp-think.github.io/book/03.pdf), [Google Docs](https://comp-think.github.io/book/03)
