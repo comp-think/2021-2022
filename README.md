@@ -161,5 +161,5 @@ All the lecture notes and additional material of the laboratory are available at
 
 # Links
 
-* [Official book of the course](https://comp-think.githib.io)
+* [Official book of the course](https://comp-think.github.io)
 * [Twitter profile of the course](https://twitter.com/UniboCompThink)
