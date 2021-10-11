@@ -12,7 +12,7 @@ This space contains all the material related to the [Computational Thinking and 
     - [Material](#material)
     - [Schedule](#schedule)
     - [Exam sessions](#exam-sessions)
-- [Links](#links)
+  - [Links](#links)
 
 ### Book and notes
 
