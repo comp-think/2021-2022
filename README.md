@@ -30,6 +30,7 @@ All the lecture notes and additional material of the laboratory are available at
 * *lab* = laboratory session
 
 1. [11/10/21, *the*] Introduction to the course
+   * slides: [HTML](https://comp-think.github.io/2021-2022/slides/00%20-%20Course%20introduction.html)
    <hr />
 2. [13/10/21, *the*] Introduction to Computational Thinking
    * book chapter: [PDF](https://comp-think.github.io/book/01.pdf), [Google Docs](https://comp-think.github.io/book/01)
