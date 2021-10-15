@@ -36,9 +36,12 @@ All the lecture notes and additional material of the laboratory are available at
    * book chapter: [PDF](https://comp-think.github.io/book/01.pdf), [Google Docs](https://comp-think.github.io/book/01)
    * slides: [HTML](https://comp-think.github.io/2021-2022/slides/01%20-%20Introduction%20to%20Computational%20Thinking.html)
    * exercises: [1](https://github.com/comp-think/2021-2022/issues/2), [2](https://github.com/comp-think/2021-2022/issues/3), [3](https://github.com/comp-think/2021-2022/issues/4)
+   * solutions: [1](https://comp-think.github.io/keys/01/exercise-1), [2](https://comp-think.github.io/keys/01/exercise-2), [3](https://comp-think.github.io/keys/01/exercise-3)
    <hr />
 3. [15/10/21, *the*] Algorithms
    * book chapter: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://comp-think.github.io/book/02)
+   * slides: [HTML](https://comp-think.github.io/2021-2022/slides/02%20-%20Algorithms.html)
+   * exercises: [1](https://github.com/comp-think/2021-2022/issues/5), [2](https://github.com/comp-think/2021-2022/issues/6), [3](https://github.com/comp-think/2021-2022/issues/7)
    <hr />
 4. [18/10/21, *lab*] 1st Lesson
    * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/01)
