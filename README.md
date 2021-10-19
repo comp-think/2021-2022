@@ -42,12 +42,15 @@ All the lecture notes and additional material of the laboratory are available at
    * book chapter: [PDF](https://comp-think.github.io/book/02.pdf), [Google Docs](https://comp-think.github.io/book/02)
    * slides: [HTML](https://comp-think.github.io/2021-2022/slides/02%20-%20Algorithms.html)
    * exercises: [1](https://github.com/comp-think/2021-2022/issues/5), [2](https://github.com/comp-think/2021-2022/issues/6), [3](https://github.com/comp-think/2021-2022/issues/7)
+   * solutions: [1](https://comp-think.github.io/keys/02/exercise-1), [2](https://comp-think.github.io/keys/02/exercise-2), [3](https://comp-think.github.io/keys/02/exercise-3)
    <hr />
 4. [18/10/21, *lab*] 1st Lesson
    * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/01)
    <hr />
 5. [20/10/21, *the*] Computability  
    * book chapter: [PDF](https://comp-think.github.io/book/03.pdf), [Google Docs](https://comp-think.github.io/book/03)
+   * slides: [HTML](https://comp-think.github.io/2021-2022/slides/03%20-%20Computability.html)
+   * exercises: [1](https://github.com/comp-think/2021-2022/issues/8), [2](https://github.com/comp-think/2021-2022/issues/9), [3](https://github.com/comp-think/2021-2022/issues/10)
    <hr />
 6. [22/10/21, *the*] Programming languages  
    * book chapter: [PDF](https://comp-think.github.io/book/04.pdf), [Google Docs](https://comp-think.github.io/book/04)
