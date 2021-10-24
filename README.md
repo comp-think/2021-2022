@@ -64,9 +64,11 @@ All the lecture notes and additional material of the laboratory are available at
      * Chapter "How To Define Functions": introductory paragraphs and sections "Defining a Function", "Working with Parameters", "Returning a Value"
    * Python: [first_algorithm_empty.py](https://comp-think.github.io/python/first_algorithm_empty.py), [first_algorithm_no_assignments.py](https://comp-think.github.io/python/first_algorithm_no_assignments.py), [first_algorithm.py](https://comp-think.github.io/python/first_algorithm.py)
    * exercises: [1](https://github.com/comp-think/2021-2022/issues/11), [2](https://github.com/comp-think/2021-2022/issues/12), [3](https://github.com/comp-think/2021-2022/issues/13)
+   * solutions: [1](https://comp-think.github.io/keys/04/exercise-1), [2](https://comp-think.github.io/keys/04/exercise-2), [3](https://comp-think.github.io/keys/04/exercise-3)
    <hr />
 7. [25/10/21, *the*] Organising information: ordered structures
    * book chapter: [PDF](https://comp-think.github.io/book/05.pdf), [Google Docs](https://comp-think.github.io/book/05)
+   * slides: [HTML](https://comp-think.github.io/2021-2022/slides/05%20-%20Organising%20information%20-%20ordered%20structures.html)
    * from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      * Chapter "How To Write Comments": all content
      * Chapter "How To Import Modules": all content
@@ -74,6 +76,7 @@ All the lecture notes and additional material of the laboratory are available at
      * Chapter "Understanding Lists": introductory paragraphs and section "Indexing Lists"
      * Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
    * Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
+   * exercises: [1](https://github.com/comp-think/2021-2022/issues/14), [2](https://github.com/comp-think/2021-2022/issues/15), [3](https://github.com/comp-think/2021-2022/issues/16)
    <hr />
 8. [27/10/21, *lab*] 2nd Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/02)
