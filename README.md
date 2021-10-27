@@ -80,6 +80,7 @@ All the lecture notes and additional material of the laboratory are available at
    <hr />
 8. [27/10/21, *lab*] 2nd Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/02)
+    * Python: [main.py](https://github.com/comp-think/2021-2022/tree/main/docs/laboratory/2/main.py)
     <hr />
 9. [29/10/21, *the*] Brute-force algorithms
    * book chapter: [PDF](https://comp-think.github.io/book/06.pdf), [Google Docs](https://comp-think.github.io/book/06)
