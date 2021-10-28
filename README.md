@@ -77,6 +77,7 @@ All the lecture notes and additional material of the laboratory are available at
      * Chapter "How To Use List Methods": introductory paragraphs and sections "list.append()", "list.extend()", "list.remove()"
    * Python: [define_functions.py](https://comp-think.github.io/python/define_functions.py), [list_instructions.py](https://comp-think.github.io/python/list_instructions.py), [stack_instructions.py](https://comp-think.github.io/python/stack_instructions.py), [queue_instructions.py](https://comp-think.github.io/python/queue_instructions.py)
    * exercises: [1](https://github.com/comp-think/2021-2022/issues/14), [2](https://github.com/comp-think/2021-2022/issues/15), [3](https://github.com/comp-think/2021-2022/issues/16)
+   * solutions: [1](https://comp-think.github.io/keys/05/exercise-1), [2](https://comp-think.github.io/keys/05/exercise-2), [3](https://comp-think.github.io/keys/05/exercise-3)
    <hr />
 8. [27/10/21, *lab*] 2nd Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/02)
@@ -84,6 +85,7 @@ All the lecture notes and additional material of the laboratory are available at
     <hr />
 9. [29/10/21, *the*] Brute-force algorithms
    * book chapter: [PDF](https://comp-think.github.io/book/06.pdf), [Google Docs](https://comp-think.github.io/book/06)
+   * slides: [HTML](https://comp-think.github.io/2021-2022/slides/06%20-%20Brute-force%20algorithms.html)
    * from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
      * Chapter "How To Construct While Loops": all content
      * Chapter "How To Construct For Loops": all content
@@ -91,6 +93,7 @@ All the lecture notes and additional material of the laboratory are available at
      * Chapter "Understanding Lists": section "Constructing a List with List Items"
      * Chapter "How To Use List Methods": section "list.insert()"
    * Python: [stack_from_list.py](https://comp-think.github.io/python/stack_from_list.py), [run_forever.py](https://comp-think.github.io/python/run_forever.py), [linear_search.py](https://comp-think.github.io/python/linear_search.py), [insertion_sort.py](https://comp-think.github.io/python/insertion_sort.py)
+   * exercises: [1](https://github.com/comp-think/2021-2022/issues/17), [2](https://github.com/comp-think/2021-2022/issues/18), [3](https://github.com/comp-think/2021-2022/issues/19), [4](https://github.com/comp-think/2021-2022/issues/20), [5](https://github.com/comp-think/2021-2022/issues/21)
    <hr />
 10. [08/11/21, *lab*] 3rd Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/03)
