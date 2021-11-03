@@ -106,37 +106,37 @@ All the lecture notes and additional material of the laboratory are available at
      * Chapter "How To Construct Classes and Define Objects": all content
    * Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
     <hr />
-12. [15/11/21, *lab*] 4th Lesson
-    <hr />
-13. [17/11/21, *the*] Recursion
+12. [15/11/21, *the*] Recursion
     * book chapter: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
     <hr />
-12. [22/11/21, *lab*] 5th Lesson
+13. [17/11/21, *lab*] 4th Lesson
     <hr />
-13. [24/11/21, *the*] Divide and conquer algorithms
+14. [22/11/21, *lab*] 5th Lesson
+    <hr />
+15. [24/11/21, *the*] Divide and conquer algorithms
     * book chapter: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
     * Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
     <hr />
-14. [29/11/21, *lab*] 6th Lesson
+16. [29/11/21, *lab*] 6th Lesson
     <hr />
-15. [01/12/21, *the*] Dynamic programming algorithms
+17. [01/12/21, *the*] Dynamic programming algorithms
     * book chapter: [PDF](https://comp-think.github.io/book/10.pdf), [Google Docs](https://comp-think.github.io/book/10)
     * Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     <hr />
-16. [06/12/21, *the*] Organising information: trees
+18. [06/12/21, *the*] Organising information: trees
     * book chapter: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
     * Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     <hr />
-17. [13/12/21, *the*] Backtracking algorithms
+19. [13/12/21, *the*] Backtracking algorithms
     * book chapter: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
     * Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
     <hr />
-18. [15/12/21, *the*] Organising information: graphs
+20. [15/12/21, *the*] Organising information: graphs
     * book chapter: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
     * Python: [graph_instructions.py](https://comp-think.github.io/python/graph_instructions.py), [multigraph_instructions.py](https://comp-think.github.io/python/multigraph_instructions.py), [graph_attribute_instructions.py](https://comp-think.github.io/python/graph_attribute_instructions.py)
     <hr />
-19. [20/12/21, *the*] Greedy algorithms
+21. [20/12/21, *the*] Greedy algorithms
     * book chapter: [PDF](https://comp-think.github.io/book/14.pdf), [Google Docs](https://comp-think.github.io/book/14)
     * Python: [line_wrap.py](https://comp-think.github.io/python/line_wrap.py)
 
@@ -156,8 +156,8 @@ All the lecture notes and additional material of the laboratory are available at
 	<tr><td>29/10/21</td><td>12:30-14:30</td><td>Brute-force algorithms</td></tr>
 	<tr><td>08/11/21</td><td>09:30-11:30</td><td>Laboratory</td></tr>
 	<tr><td>10/11/21</td><td>09:30-11:30</td><td>Organising information: unordered structures</td></tr>
-	<tr><td>15/11/21</td><td>09:30-11:30</td><td>Laboratory</td></tr>
-	<tr><td>17/11/21</td><td>09:30-11:30</td><td>Recursion</td></tr>
+	<tr><td>15/11/21</td><td>09:30-11:30</td><td>Recursion</td></tr>
+	<tr><td>17/11/21</td><td>09:30-11:30</td><td>Laboratory</td></tr>
 	<tr><td>22/11/21</td><td>09:30-11:30</td><td>Laboratory</td></tr>
 	<tr><td>24/11/21</td><td>09:30-11:30</td><td>Divide and conquer algorithms</td></tr>
 	<tr><td>29/11/21</td><td>09:30-11:30</td><td>Laboratory</td></tr>
