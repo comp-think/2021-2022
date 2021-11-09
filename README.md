@@ -97,6 +97,7 @@ All the lecture notes and additional material of the laboratory are available at
    <hr />
 10. [08/11/21, *lab*] 3rd Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/03)
+    * Python: [main.py](https://github.com/comp-think/2021-2022/tree/main/docs/laboratory/3/main.py), [functions.py](https://github.com/comp-think/2021-2022/tree/main/docs/laboratory/3/functions.py)
     <hr />
 11. [10/11/21, *the*] Organising information: unordered structures
    * book chapter: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
@@ -111,8 +112,10 @@ All the lecture notes and additional material of the laboratory are available at
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
     <hr />
 13. [17/11/21, *lab*] 4th Lesson
+    * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/04)
     <hr />
 14. [22/11/21, *lab*] 5th Lesson
+    * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/05)
     <hr />
 15. [24/11/21, *the*] Divide and conquer algorithms
     * book chapter: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
