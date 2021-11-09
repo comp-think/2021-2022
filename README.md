@@ -101,12 +101,12 @@ All the lecture notes and additional material of the laboratory are available at
     * Python: [main.py](https://github.com/comp-think/2021-2022/tree/main/docs/laboratory/3/main.py), [functions.py](https://github.com/comp-think/2021-2022/tree/main/docs/laboratory/3/functions.py)
     <hr />
 11. [10/11/21, *the*] Organising information: unordered structures
-   * book chapter: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
-   * from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
-     * Chapter "Understanding Data Types": section "Dictionaries"
-     * Chapter "Understanding Dictionaries": all content
-     * Chapter "How To Construct Classes and Define Objects": all content
-   * Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
+    * book chapter: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
+    * from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
+      * Chapter "Understanding Data Types": section "Dictionaries"
+      * Chapter "Understanding Dictionaries": all content
+      * Chapter "How To Construct Classes and Define Objects": all content
+    * Python: [set_instructions.py](https://comp-think.github.io/python/set_instructions.py), [dictionary_instructions.py](https://comp-think.github.io/python/dictionary_instructions.py)
     * exercises: [1](https://github.com/comp-think/2021-2022/issues/22), [2](https://github.com/comp-think/2021-2022/issues/23), [3](https://github.com/comp-think/2021-2022/issues/24)
     <hr />
 12. [15/11/21, *the*] Recursion
