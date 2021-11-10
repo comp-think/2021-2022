@@ -102,6 +102,7 @@ All the lecture notes and additional material of the laboratory are available at
     <hr />
 11. [10/11/21, *the*] Organising information: unordered structures
     * book chapter: [PDF](https://comp-think.github.io/book/07.pdf), [Google Docs](https://comp-think.github.io/book/07)
+    * slides: [HTML](https://comp-think.github.io/2021-2022/slides/07%20-%20Organising%20information%20-%20unordered%20structures.html)
     * from [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python):
       * Chapter "Understanding Data Types": section "Dictionaries"
       * Chapter "Understanding Dictionaries": all content
