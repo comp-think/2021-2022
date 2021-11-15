@@ -115,7 +115,7 @@ All the lecture notes and additional material of the laboratory are available at
     * book chapter: [PDF](https://comp-think.github.io/book/08.pdf), [Google Docs](https://comp-think.github.io/book/08)
     * slides: [HTML](https://comp-think.github.io/2021-2022/slides/08%20-%20Recursion.html)
     * Python: [run_forever_recursive.py](https://comp-think.github.io/python/run_forever_recursive.py), [multiplication.py](https://comp-think.github.io/python/multiplication.py)
-    * exercises: [1](https://github.com/comp-think/2021-2022/issues/25), [2](https://github.com/comp-think/2021-2022/issues/26)
+    * exercises: [1](https://github.com/comp-think/2021-2022/issues/26), [2](https://github.com/comp-think/2021-2022/issues/27)
     <hr />
 13. [17/11/21, *lab*] 4th Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/04)
