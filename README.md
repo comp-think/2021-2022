@@ -119,6 +119,7 @@ All the lecture notes and additional material of the laboratory are available at
     <hr />
 13. [17/11/21, *lab*] 4th Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/04)
+    * Python: [main.py](https://github.com/comp-think/2021-2022/tree/main/docs/laboratory/4/main.py)
     <hr />
 14. [22/11/21, *lab*] 5th Lesson
     * book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/05)
