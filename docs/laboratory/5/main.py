@@ -3,24 +3,27 @@
 
 # the function takes a list of pokemons
 # the list is compused by N items (i.e., pokemons)
-def pokemon_champion(l_table):
-    len_list = len(l_table)
+import random
+
+
+def pokemon_champion(pokemon_list):
+    len_list = len(pokemon_list)
     # Base case 1: if the list has only 1 item
     # -> return just that item
     if len_list == 1:
-        return [l_table[0]]
+        return [pokemon_list[0]]
     # Base case 2: if the list has 2 items
     # -> match the 2 items and return the winner
     elif len_list == 2:
         # attacking points of the element on the left
-        p_attack = l_table[0][1]
+        p_attack = pokemon_list[0][1]
         # defending points of the element on the right
-        p_defend = l_table[1][2]
+        p_defend = pokemon_list[1][2]
         # match the 2 pokemons and return the winner
         if p_attack > p_defend:
-            return [l_table[0]]
+            return [pokemon_list[0]]
         else:
-            return [l_table[1]]
+            return [pokemon_list[1]]
 
     # in this case the list is composed by N items
     # divide the list in two parts, and call the function recursevly
@@ -29,10 +32,10 @@ def pokemon_champion(l_table):
         mid = len_list // 2
         return pokemon_champion(
             # the first part of the list
-            pokemon_champion(l_table[:mid])
+            pokemon_champion(pokemon_list[:mid])
             +
             # the second part of the list
-            pokemon_champion(l_table[mid:])
+            pokemon_champion(pokemon_list[mid:])
         )
 
 
