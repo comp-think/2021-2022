@@ -132,7 +132,7 @@ All the lecture notes and additional material of the laboratory are available at
     - book chapter: [PDF](https://comp-think.github.io/book/09.pdf), [Google Docs](https://comp-think.github.io/book/09)
     - slides: [HTML](https://comp-think.github.io/2021-2022/slides/09%20-%20Divide%20and%20conquer%20algorithms.html)
     - Python: [immutable_values.py](https://comp-think.github.io/python/immutable_values.py), [mutable_values.py](https://comp-think.github.io/python/mutable_values.py), [immutable_and_mutable_variables.py](https://comp-think.github.io/python/immutable_and_mutable_variables.py), [merge.py](https://comp-think.github.io/python/merge.py), [merge_sort.py](https://comp-think.github.io/python/merge_sort.py)
-    - exercises: [1](https://github.com/comp-think/2021-2022/issues/28), [2](https://github.com/comp-think/2021-2022/issues/29)
+    - exercises: [1](https://github.com/comp-think/2021-2022/issues/28), [2](https://github.com/comp-think/2021-2022/issues/29), [3](https://github.com/comp-think/2021-2022/issues/30)
     <hr />
 16. [29/11/21, *lab*] 6th Lesson
     <hr />
