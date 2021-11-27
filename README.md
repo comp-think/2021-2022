@@ -135,6 +135,7 @@ All the lecture notes and additional material of the laboratory are available at
     - exercises: [1](https://github.com/comp-think/2021-2022/issues/28), [2](https://github.com/comp-think/2021-2022/issues/29), [3](https://github.com/comp-think/2021-2022/issues/30)
     <hr />
 16. [29/11/21, *lab*] 6th Lesson
+    - book chapter: [HTML](https://comp-think.github.io/laboratory/chapter/06)
     <hr />
 17. [01/12/21, *the*] Dynamic programming algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/10.pdf), [Google Docs](https://comp-think.github.io/book/10)
