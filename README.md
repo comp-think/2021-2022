@@ -143,10 +143,13 @@ All the lecture notes and additional material of the laboratory are available at
     - slides: [HTML](https://comp-think.github.io/2021-2022/slides/10%20-%20Dynamic%20programming%20algorithms.html)
     - Python: [fib_dc.py](https://comp-think.github.io/python/fib_dc.py), [fib_dp.py](https://comp-think.github.io/python/fib_dp.py)
     - exercises: [1](https://github.com/comp-think/2021-2022/issues/31), [2](https://github.com/comp-think/2021-2022/issues/32)
+    - solutions: [1](https://comp-think.github.io/keys/10/exercise-1), [2](https://comp-think.github.io/keys/10/exercise-2)
     <hr />
 18. [06/12/21, *the*] Organising information: trees
     - book chapter: [PDF](https://comp-think.github.io/book/11.pdf), [Google Docs](https://comp-think.github.io/book/11)
+    - slides: [HTML](https://comp-think.github.io/2021-2022/slides/11%20-%20Organising%20information%20-%20trees.html)
     - Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
+    - exercises: [1](https://github.com/comp-think/2021-2022/issues/33), [2](https://github.com/comp-think/2021-2022/issues/34)
     <hr />
 19. [13/12/21, *the*] Backtracking algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
