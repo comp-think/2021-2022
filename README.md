@@ -150,10 +150,13 @@ All the lecture notes and additional material of the laboratory are available at
     - slides: [HTML](https://comp-think.github.io/2021-2022/slides/11%20-%20Organising%20information%20-%20trees.html)
     - Python: [tree_instructions.py](https://comp-think.github.io/python/tree_instructions.py)
     - exercises: [1](https://github.com/comp-think/2021-2022/issues/33), [2](https://github.com/comp-think/2021-2022/issues/34)
+    - solutions: [1](https://comp-think.github.io/keys/11/exercise-1), [2](https://comp-think.github.io/keys/11/exercise-2)
     <hr />
 19. [13/12/21, *the*] Backtracking algorithms
     - book chapter: [PDF](https://comp-think.github.io/book/12.pdf), [Google Docs](https://comp-think.github.io/book/12)
+    - slides: [HTML](https://comp-think.github.io/2021-2022/slides/12%20-%20Backtracking%20algorithms.html)
     - Python: [peg_solitaire.py](https://comp-think.github.io/python/peg_solitaire.py)
+    - exercises: [1](https://github.com/comp-think/2021-2022/issues/35), [2](https://github.com/comp-think/2021-2022/issues/36)
     <hr />
 20. [15/12/21, *the*] Organising information: graphs
     - book chapter: [PDF](https://comp-think.github.io/book/13.pdf), [Google Docs](https://comp-think.github.io/book/13)
