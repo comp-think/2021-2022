@@ -8,7 +8,7 @@
 
 **Group file:** [group.py](https://comp-think.github.io/2021-2022/workshop/group.py)
 
-**Exemplar maze:** [test_labyrinth.py](https://comp-think.github.io/2021-2022/workshop/test_labyrinth.py)
+**Exemplar maze:** [test_labyrinth.json](https://comp-think.github.io/2021-2022/workshop/test_labyrinth.json)
 
 ## Plot
 
