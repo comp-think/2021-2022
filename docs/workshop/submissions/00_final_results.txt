@@ -1,0 +1,457 @@
+## Labirinth 1 ##
+FINAL RANKS
+Rank 1
+	in_the_loop at turn 3
+Rank 2
+	whiteboard at turn 4
+Rank 3
+	allora_py at turn 5
+
+## Labirinth 2 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 6
+
+## Labirinth 3 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 97
+
+## Labirinth 4 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 187
+
+## Labirinth 5 ##
+FINAL RANKS
+Rank 1
+	allora_py, whiteboard at turn 3
+
+## Labirinth 6 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 39
+
+## Labirinth 7 ##
+FINAL RANKS
+
+## Labirinth 8 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 182
+
+## Labirinth 9 ##
+FINAL RANKS
+Rank 1
+	allora_py, no_name, whiteboard at turn 3
+
+## Labirinth 10 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 14
+
+## Labirinth 11 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 81
+
+## Labirinth 12 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 17
+
+## Labirinth 13 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 4
+
+## Labirinth 14 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 50
+
+## Labirinth 15 ##
+FINAL RANKS
+
+## Labirinth 16 ##
+FINAL RANKS
+
+## Labirinth 17 ##
+FINAL RANKS
+Rank 1
+	in_the_loop at turn 3
+Rank 2
+	allora_py at turn 7
+
+## Labirinth 18 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 6
+
+## Labirinth 19 ##
+FINAL RANKS
+
+## Labirinth 20 ##
+FINAL RANKS
+
+## Labirinth 21 ##
+FINAL RANKS
+Rank 1
+	allora_py, lmae, whiteboard at turn 3
+
+## Labirinth 22 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 11
+
+## Labirinth 23 ##
+FINAL RANKS
+
+## Labirinth 24 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 54
+
+## Labirinth 25 ##
+FINAL RANKS
+Rank 1
+	allora_py, lmae, whiteboard at turn 2
+
+## Labirinth 26 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 12
+
+## Labirinth 27 ##
+FINAL RANKS
+
+## Labirinth 28 ##
+FINAL RANKS
+
+## Labirinth 29 ##
+FINAL RANKS
+Rank 1
+	allora_py, lmae at turn 3
+
+## Labirinth 30 ##
+FINAL RANKS
+
+## Labirinth 31 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 18
+
+## Labirinth 32 ##
+FINAL RANKS
+
+## Labirinth 33 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 3
+Rank 2
+	whiteboard at turn 5
+
+## Labirinth 34 ##
+FINAL RANKS
+Rank 1
+	lmae at turn 7
+Rank 2
+	allora_py at turn 10
+
+## Labirinth 35 ##
+FINAL RANKS
+Rank 1
+	lmae at turn 21
+
+## Labirinth 36 ##
+FINAL RANKS
+
+## Labirinth 37 ##
+FINAL RANKS
+Rank 1
+	allora_py, whiteboard at turn 4
+
+## Labirinth 38 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 7
+
+## Labirinth 39 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 33
+
+## Labirinth 40 ##
+FINAL RANKS
+
+## Labirinth 41 ##
+FINAL RANKS
+Rank 1
+	allora_py, lmae, no_name, whiteboard at turn 3
+
+## Labirinth 42 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 59
+
+## Labirinth 43 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 67
+
+## Labirinth 44 ##
+FINAL RANKS
+
+## Labirinth 45 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 5
+Rank 2
+	allora_py at turn 6
+
+## Labirinth 46 ##
+FINAL RANKS
+
+## Labirinth 47 ##
+FINAL RANKS
+
+## Labirinth 48 ##
+FINAL RANKS
+
+## Labirinth 49 ##
+FINAL RANKS
+Rank 1
+	allora_py, whiteboard at turn 5
+
+## Labirinth 50 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 23
+
+## Labirinth 51 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 34
+
+## Labirinth 52 ##
+FINAL RANKS
+
+## Labirinth 53 ##
+FINAL RANKS
+
+## Labirinth 54 ##
+FINAL RANKS
+
+## Labirinth 55 ##
+FINAL RANKS
+
+## Labirinth 56 ##
+FINAL RANKS
+
+## Labirinth 57 ##
+FINAL RANKS
+Rank 1
+	allora_py, whiteboard at turn 5
+
+## Labirinth 58 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 5
+Rank 2
+	allora_py at turn 6
+
+## Labirinth 59 ##
+FINAL RANKS
+
+## Labirinth 60 ##
+FINAL RANKS
+
+## Labirinth 61 ##
+FINAL RANKS
+Rank 1
+	allora_py, lmae, whiteboard at turn 3
+
+## Labirinth 62 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 17
+Rank 2
+	allora_py at turn 20
+
+## Labirinth 63 ##
+FINAL RANKS
+
+## Labirinth 64 ##
+FINAL RANKS
+
+## Labirinth 65 ##
+FINAL RANKS
+Rank 1
+	in_the_loop at turn 4
+Rank 2
+	allora_py at turn 5
+
+## Labirinth 66 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 15
+
+## Labirinth 67 ##
+FINAL RANKS
+
+## Labirinth 68 ##
+FINAL RANKS
+
+## Labirinth 69 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 4
+Rank 2
+	allora_py at turn 5
+
+## Labirinth 70 ##
+FINAL RANKS
+Rank 1
+	lmae at turn 5
+Rank 2
+	whiteboard at turn 6
+Rank 3
+	allora_py at turn 23
+
+## Labirinth 71 ##
+FINAL RANKS
+
+## Labirinth 72 ##
+FINAL RANKS
+
+## Labirinth 73 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 4
+Rank 2
+	allora_py at turn 5
+
+## Labirinth 74 ##
+FINAL RANKS
+
+## Labirinth 75 ##
+FINAL RANKS
+
+## Labirinth 76 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 141
+
+## Labirinth 77 ##
+FINAL RANKS
+Rank 1
+	in_the_loop at turn 4
+Rank 2
+	allora_py, whiteboard at turn 8
+
+## Labirinth 78 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 7
+Rank 2
+	allora_py at turn 9
+
+## Labirinth 79 ##
+FINAL RANKS
+
+## Labirinth 80 ##
+FINAL RANKS
+Rank 1
+	lmae at turn 132
+
+## Labirinth 81 ##
+FINAL RANKS
+Rank 1
+	allora_py, whiteboard at turn 6
+
+## Labirinth 82 ##
+FINAL RANKS
+
+## Labirinth 83 ##
+FINAL RANKS
+
+## Labirinth 84 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 158
+
+## Labirinth 85 ##
+FINAL RANKS
+Rank 1
+	in_the_loop at turn 5
+Rank 2
+	allora_py at turn 6
+Rank 3
+	whiteboard at turn 11
+
+## Labirinth 86 ##
+FINAL RANKS
+Rank 1
+	whiteboard at turn 9
+
+## Labirinth 87 ##
+FINAL RANKS
+
+## Labirinth 88 ##
+FINAL RANKS
+
+## Labirinth 89 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 6
+Rank 2
+	whiteboard at turn 7
+
+## Labirinth 90 ##
+FINAL RANKS
+
+## Labirinth 91 ##
+FINAL RANKS
+
+## Labirinth 92 ##
+FINAL RANKS
+
+## Labirinth 93 ##
+FINAL RANKS
+Rank 1
+	allora_py at turn 2
+Rank 2
+	whiteboard at turn 3
+Rank 3
+	lmae at turn 6
+
+## Labirinth 94 ##
+FINAL RANKS
+
+## Labirinth 95 ##
+FINAL RANKS
+
+## Labirinth 96 ##
+FINAL RANKS
+
+## Labirinth 97 ##
+FINAL RANKS
+Rank 1
+	lmae at turn 2
+Rank 2
+	allora_py at turn 10
+
+## Labirinth 98 ##
+FINAL RANKS
+
+## Labirinth 99 ##
+FINAL RANKS
+
+## Labirinth 100 ##
+FINAL RANKS
+
+## FINAL RESULTS ##
+Avoiding non-permitted moves: allora_py whiteboard pika_py no_name
+Find exit of at least 30 mazes: allora_py
+Find exit of all 100 mazes:
+Best winner: allora_py

@@ -24,7 +24,7 @@ But then, Myntrakor, also known as Who Must Not Be Thought and ruler of that pla
 2. Each explorer can move horizontally or vertically, passing from one room to another.
 3. All moves are organised in turns; every turn, each explorer uses its lamp to see all the adjacent rooms and choose to move to one of them; if the adjacent room reached does not contain mud, the explorer has the chance to move to another room in the same turn.
 4. An explorer dies if (a) decides not to move, (b) moves to a place which is not an adjacent room (e.g. a hole, a non-adjacent room, or beyond the borders of the maze), (c) does not reach the exit within the number of turns set by Myntrakor for that maze
-5. The maximum number of turns to find the exit of the maze is dependent on the the square defining the maze (4 turns in a 2x2 square, 9 in a 3x3, 14 in a 4x4, etc.).
+5. The maximum number of turns to find the exit of the maze is dependent on the the square defining the maze (4 turns in a 2x2 square, 9 in a 3x3, 16 in a 4x4, etc.).
 
 ## Function to implement
 ```
@@ -57,3 +57,18 @@ To test the implementation of `do_move`, run:
 ```
 python labyrinth.py
 ```
+
+## Final results
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to the main Python script [*Escape the Tower Labyrinth](https://comp-think.github.io/2021-2022/workshop/submissions/00_run_tower_labyrinth.py), available in the folder [submissions](https://comp-think.github.io/2021-2022/workshop/submissions/) with all the groups' implementation. It uses [100 different labyrinths](https://comp-think.github.io/2021-2022/workshop/submissions/labyrinths/) that have been generated randomly running [create_labyrinth.py](https://comp-think.github.io/2021-2022/workshop/support/create_labyrinth.py).
+
+The [final results](https://comp-think.github.io/2021-2022/workshop/submissions/00_final_results.txt) of this execution are summarised as follows:
+
+* Groups that returned always permitted moves: *Allora Py*, *no name*, *pika.py*, *Whiteboard*
+* Groups that found the exit of at least 30 mazes: *Allora Py*
+* Groups that found the exit of all 100 mazes: none of the participants
+* Groups that won the greatest number of mazes: *Allora Py*
+
+Concluding:
+* *Allora Py* members receive 3 points
+* *no name*, *pika.py* and *Whiteboard* members receice 1 point
+* Members of all the other groups receive 0 points
