@@ -59,7 +59,7 @@ python labyrinth.py
 ```
 
 ## Final results
-All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to the main Python script [*Escape the Tower Labyrinth](https://comp-think.github.io/2021-2022/workshop/submissions/00_run_tower_labyrinth.py), available in the folder [submissions](https://comp-think.github.io/2021-2022/workshop/submissions/) with all the groups' implementation. It uses [100 different labyrinths](https://comp-think.github.io/2021-2022/workshop/submissions/labyrinths/) that have been generated randomly running [create_labyrinth.py](https://comp-think.github.io/2021-2022/workshop/support/create_labyrinth.py).
+All the functions implemented by each group (that submitted a syntactical-correct Python code - i.e. "It runs, it runs!") were used to the main Python script [*Escape the Tower Labyrinth*](https://comp-think.github.io/2021-2022/workshop/submissions/00_run_tower_labyrinth.py), available in the folder [submissions](https://comp-think.github.io/2021-2022/workshop/submissions/) with all the groups' implementation. It uses [100 different labyrinths](https://comp-think.github.io/2021-2022/workshop/submissions/labyrinths/) that have been generated randomly running [create_labyrinth.py](https://comp-think.github.io/2021-2022/workshop/support/create_labyrinth.py).
 
 The [final results](https://comp-think.github.io/2021-2022/workshop/submissions/00_final_results.txt) of this execution are summarised as follows:
 
