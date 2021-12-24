@@ -70,5 +70,5 @@ The [final results](https://comp-think.github.io/2021-2022/workshop/submissions/
 
 Concluding:
 * *Allora Py* members receive 3 points
-* *no name*, *pika.py* and *Whiteboard* members receice 1 point
+* *no name*, *pika.py* and *Whiteboard* members receive 1 point
 * Members of all the other groups receive 0 points
