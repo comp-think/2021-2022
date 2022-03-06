@@ -206,7 +206,7 @@ All the lecture notes and additional material of the laboratory are available at
 - 14 March 2022
 - 16 May 2022
 - 20 June 2022
-- 11 July 2022
+- 15 July 2022
 - 5 September 2022
 
 # Links
