@@ -214,4 +214,4 @@ All the lecture notes and additional material of the laboratory are available at
 - [Official book of the course](https://comp-think.github.io)
 - [Twitter profile of the course](https://twitter.com/UniboCompThink)
 - [Workshop](https://github.com/comp-think/2021-2022/tree/main/docs/workshop)
-- Written examinations: [text and solutions](https://github.com/comp-think/2021-2022/tree/master/exams/README.md)
+- Written examinations: [text and solutions](https://github.com/comp-think/2021-2022/blob/main/exam/README.md)
