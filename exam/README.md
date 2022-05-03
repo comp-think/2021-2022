@@ -3,6 +3,30 @@
 In this page it is possible to find the link to the various written examination of the course Computational Thinking and Programming, academic year 2021/2022.
 
 
+## 14 March 2022 written examination
+
+**Text of the exam:** [PDF](./written-examination-2022-03-14.pdf)
+
+**Solutions:**
+* Section 1 (theory):
+  1. Python is a high-level programming language
+     
+     Assembly is a low-level programming language
+     
+  2. [Solution](https://comp-think.github.io/exercises/understanding/beginner/exercise-14) available online.
+     
+  3. [Solution](https://comp-think.github.io/exercises/development/beginner/exercise-25) available online.
+  
+  4. The approach for finding a solution to this computational problem is based entirely on backtracking. In particular, we should develop it according to the following steps:
+     * [leaf-win] if the last move has brought to a situation where there is only one peg, and it is in the central position, then a solution has been found, and the sequence of moves executed for coming to this solution is returned; otherwise,
+     * [leaf-lose] if the last move has brought to a situation where there are no possible moves, then recreate the previous status of the board as if we did not execute the previous move, and return no solutions; otherwise,
+     * [recursive-step] apply the algorithm recursively for each possible valid move executable according to the board’s current status until one of these recursive executions of the algorithm returns a solution. If none of them provides a solution, recreate the previous status of the board as if we did not execute the last move and return no solutions.
+
+* Section 2 (understanding): [Solution](https://comp-think.github.io/exercises/understanding/advanced/exercise-28) available online.
+
+* Section 3 (development): [Solution](https://comp-think.github.io/exercises/development/advanced/exercise-28) available online.
+
+
 ## 28 January 2022 written examination
 
 **Text of the exam:** [PDF](./written-examination-2022-01-28.pdf)
