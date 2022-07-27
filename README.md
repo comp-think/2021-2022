@@ -7,7 +7,7 @@ This space contains all the material related to the [Computational Thinking and 
 ### Table of content
 
 - [Computational Thinking and Programming](#computational-thinking-and-programming)
-  - [Academic year 2020/2021](#academic-year-20212022)
+  - [Academic year 2021/2022](#academic-year-20212022)
     - [Table of content](#table-of-content)
     - [Book and notes](#book-and-notes)
     - [Material](#material)
